@@ -15,18 +15,22 @@
 https://forms.gle/89A9P6GpxoRwce9z8
 
 ## 🚧 Check out our current ongoing projects:
-### Club Website
-  - 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.ClubWebsite
-### Degree Planner Chrome Extension
-  - 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.DiscordBot
-### Game Development Project
-  - 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.GameDevelop
-### Memory Card Mini-Game 
-  - 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.MemoryCardGame
-### Community Discord Bot
-  - 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.Degree_Planner
+**Club Website** 
+- 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.ClubWebsite
+  
+**Degree Planner Chrome Extension**
+- 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.DiscordBot
+
+**Game Development Project**
+- 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.GameDevelop
+
+**Memory Card Mini-Game** 
+- 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.MemoryCardGame
+
+**Community Discord Bot**
+- 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.Degree_Planner
 
 ## 🕰️ Check out our past projects:
 
-### STEM Center Heatmap
+**STEM Center Heatmap**
   - 🔗 https://github.com/Skyline-College-Computer-Science-Club/stem-center-heatmap
