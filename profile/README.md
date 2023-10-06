@@ -14,21 +14,18 @@
 ### While our organization's README is underway, you can apply to our GitHub organization here:
 https://forms.gle/89A9P6GpxoRwce9z8
 
-## 🚧 Check out our current ongoing projects:
+## 🚧 Check out our current living projects:
 **Club Website** 
 - 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.ClubWebsite
-  
-**Degree Planner Chrome Extension**
-- 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.DiscordBot
 
 **Game Development Project**
 - 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.GameDevelop
 
+**Community Discord Bot**
+- 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.DiscordBot
+
 **Memory Card Mini-Game** 
 - 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.MemoryCardGame
-
-**Community Discord Bot**
-- 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.Degree_Planner
 
 ## 🕰️ Check out our past projects:
 
