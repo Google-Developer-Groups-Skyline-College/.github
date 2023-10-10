@@ -11,8 +11,7 @@
   <a href="https://forms.gle/89A9P6GpxoRwce9z8"><img src="https://img.shields.io/badge/join_our_github-616155?style=for-the-badge&logo=github"></a>
 </div>
 
-### While our organization's README is underway, you can apply to our GitHub organization here:
-https://forms.gle/89A9P6GpxoRwce9z8
+- 🗺️ **Follow our progress on Trello:** https://trello.com/w/computerscienceclubinterlink/home
 
 ## 🚧 Check out our current living projects:
 **Club Website** 
