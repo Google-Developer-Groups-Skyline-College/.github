@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Skyline-College-Computer-Science-Club/.github/blob/main/assets/logo_transparent.png" width=155 height=150>
+  <img src="https://avatars.githubusercontent.com/u/102612226?s=400&u=724267d03cc17caa1ba6df470d57d9442a6e1867&v=4" width=155 height=150>
   <h1>Welcome to the Computer Science Club @ Skyline College!</h1>
   <p>A STEM club fostering community-based student growth in software engineering, design & development. 🌱</p>
   <!-- 
