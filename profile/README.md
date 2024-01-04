@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/badge/welcome_to_skyline's_computer_science_club's_github-black?style=for-the-badge&logo=wheniwork">
   <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" height=24>
   --> 
-  <a href="https://linktr.ee/skylinecsc"><img src="https://img.shields.io/badge/explore_our_linktree-26622A?style=for-the-badge&logo=linktree"></a>
+  <a href="https://linktr.ee/skylinecsc"><img src="https://img.shields.io/badge/linktree-26622A?style=for-the-badge&logo=linktree"></a>
   <a href="https://discordapp.com/users/168406210687533056"><img src="https://img.shields.io/badge/join_our_discord_community-423C82?style=for-the-badge&logo=discord"></a>
-  <a href="https://forms.gle/89A9P6GpxoRwce9z8"><img src="https://img.shields.io/badge/join_our_github_org-616155?style=for-the-badge&logo=github"></a>
+  <a href="https://forms.gle/89A9P6GpxoRwce9z8"><img src="https://img.shields.io/badge/join_our_org.-616155?style=for-the-badge&logo=github"></a>
   <a href="https://trello.com/w/computerscienceclubinterlink/home"><img src="https://img.shields.io/badge/Track_our_Trellos-FFD657?style=for-the-badge&logo=trello"></a>
 </div>
 
