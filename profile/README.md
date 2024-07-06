@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/102612226?s=400&u=724267d03cc17caa1ba6df470d57d9442a6e1867&v=4" width=155 height=150>
-  <h1>Welcome to our Computer Science Club's Organization</h1>
-  <p>We are a STEM club fostering community-based student growth in software engineering, design & development. 🌱</p>
-  <!-- 
+  <img src="https://github.com/Skyline-College-Computer-Science-Club/.github-private/assets/51037255/02b77643-f024-4ec5-9027-cec0e7798add" height=320>
+  <h1>Welcome to the Skyline Computer Science Club's Organization</h1>
+  <p>We are a STEM club fostering community-based student growth in software engineering, design & development. 🌱</p>  <!-- 
   <img src="https://img.shields.io/badge/welcome_to_skyline's_computer_science_club's_github-black?style=for-the-badge&logo=wheniwork">
   <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" height=24>
   --> 
@@ -15,10 +14,14 @@
 <div align="center" style="width: 100%">
   <img width="100px" src="https://media1.tenor.com/m/MJe9elAbpH8AAAAC/no-cat.gif">
   <img width="100px" src="https://media0.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif">
-  
+
 </div>
 
 ## 🚧 Check out our current living projects:
+All our projects are open-sourced and can receive contributions from anyone in the community, no matter you are a beginner or an experienced project contributor. **All of our projects are done by growing and learning students like you!**
+
+Join us on Discord and through our club meetings to start collaborating with the club and your fellow students!
+
 **Club Website** 
 - 🔗 https://github.com/Skyline-College-Computer-Science-Club/project.ClubWebsite
 
