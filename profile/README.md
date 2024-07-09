@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Skyline-College-Computer-Science-Club/.github-private/assets/51037255/02b77643-f024-4ec5-9027-cec0e7798add" height=320>
+  <img src="https://raw.githubusercontent.com/Skyline-College-Computer-Science-Club/.github/main/assets/mascot_banner.png" height=320>
   <h1>Welcome to the Skyline Computer Science Club's Organization</h1>
   <p>We are a STEM club fostering community-based student growth in software engineering, design & development. 🌱</p>  <!-- 
   <img src="https://img.shields.io/badge/welcome_to_skyline's_computer_science_club's_github-black?style=for-the-badge&logo=wheniwork">
