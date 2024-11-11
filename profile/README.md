@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Skyline-College-Computer-Science-Club/.github/main/assets/mascot_banner.png" height=320>
-  <h1>Welcome to the Skyline Computer Science Club's Organization</h1>
+  <h1>Welcome to GDG on Campus: Skyline College's GitHub Platform</h1>
   <p>We are a STEM club fostering community-based student growth in software engineering, design & development. 🌱</p>  <!-- 
   <img src="https://img.shields.io/badge/welcome_to_skyline's_computer_science_club's_github-black?style=for-the-badge&logo=wheniwork">
   <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" height=24>
